@@ -10,13 +10,16 @@ Return the results as an array or list ( depending on language ).
 
 ### Starting code
 
-`function countBy(x,n){
+```
+function countBy(x,n){
     let result = [];
     return result;
-}`
+}
+```
 
 ### Examples
 
-`countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]`
-or
-`countBy(2,5) === [2,4,6,8,10]`
+```
+countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]
+countBy(2,5) === [2,4,6,8,10]
+```
