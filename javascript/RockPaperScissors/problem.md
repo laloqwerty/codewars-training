@@ -6,7 +6,7 @@ Let's play! You have to return which player won! In case of a draw return "Draw!
 
 `function rps (p1, p2){
 
-};`
+}`
 
 ### Examples(Input1, Input2 --> Output):
 
