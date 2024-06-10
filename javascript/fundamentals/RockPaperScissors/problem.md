@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+## Description
+
 Let's play! You have to return which player won! In case of a draw return "Draw!".
 
 ### Examples(Input1, Input2 --> Output):
